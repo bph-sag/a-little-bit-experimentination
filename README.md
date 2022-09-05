@@ -70,7 +70,6 @@ as both are shipped with Apama.
 
 ### Repository structure
 
-|                      |                                                                      |
 |----------------------|----------------------------------------------------------------------|
 | apama-eplapps-tools/ | this directory                                                       |
 | README.md            | this file                                                            |
