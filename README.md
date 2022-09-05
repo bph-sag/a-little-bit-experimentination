@@ -50,9 +50,9 @@ In order to view the documentation on classes for PySys helpers for
 Apama EPL Apps see: [PySys
 helpers](https://SoftwareAG.github.io/apama-eplapps-tools/doc/pydoc/autodocgen/apamax.eplapplications.html#module-apamax.eplapplications).
 
-See \<https://www.apamacommunity.com/docs>
-\<https://cumulocity.com/guides/apama>
-\<https://pysys-test.github.io/pysys-test/> for further docs.
+See <https://www.apamacommunity.com/docs>
+<https://cumulocity.com/guides/apama>
+<https://pysys-test.github.io/pysys-test/> for further docs.
 
 ## System requirements
 
@@ -64,7 +64,7 @@ PySys. See [PySys
 Documentation](https://pysys-test.github.io/pysys-test/) for details. If
 you want the option of running tests locally, you will also need an
 installation of Apama, which can be obtained from
-\<https://www.apamacommunity.com/downloads/>. If you choose to
+<https://www.apamacommunity.com/downloads/>. If you choose to
 install Apama, you may skip the manual installation of Python and PySys
 as both are shipped with Apama.
 
